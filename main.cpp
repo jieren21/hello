@@ -2,4 +2,5 @@
 
 int main()
 {
+    printf("How are you?\n");
 }
