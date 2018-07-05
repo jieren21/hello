@@ -1,8 +1,12 @@
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jieren21/hello/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+$$ \int_0^1 x dx $$
 
 ### Markdown
 
